@@ -2,3 +2,5 @@
 Example of GitHub repo starting on remote side with new branch name 2
 
 Update README file
+
+Another update for the README file
